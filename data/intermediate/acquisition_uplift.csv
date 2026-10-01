@@ -1,0 +1,8 @@
+venue_name,venue_type,acquired_month,status,pre_months,post_months,pre_12m_avg_monthly,post_12m_avg_monthly,acquisition_kind,uplift_pct
+Scarlett's Rose – Round Rock,Gentlemen's club,2009-12-01,Active,0,12,,134295.58333333334,Dormant / reopened,
+PT's Showclub – Odessa,Gentlemen's club,2022-08-01,Active,10,12,3517.2727272727275,72936.91666666667,Dormant / reopened,
+Baby Dolls – Dallas,Gentlemen's club,2023-03-01,Active,12,12,552609.75,827555.0833333334,Going concern,0.4975397798054293
+Chicas Locas – Dallas,Latin-themed club,2023-03-01,Active,12,12,131426.16666666666,300947.8333333333,Going concern,1.2898623688585609
+Chicas Locas – Houston,Latin-themed club,2023-03-01,Active,12,12,284036.4166666667,333571.25,Going concern,0.1743960648238474
+Baby Dolls – Euless (Hwy 157),Gentlemen's club,2023-06-01,Closed,0,12,,162659.33333333334,Dormant / reopened,
+Chicas Locas – Arlington,Latin-themed club,2024-03-01,Active,12,12,142657.41666666666,156773.08333333334,Going concern,0.0989480042222366

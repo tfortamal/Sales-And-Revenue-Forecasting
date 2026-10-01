@@ -1,0 +1,53 @@
+location_address,location_city,venue_name,brand,venue_type,type_confidence,type_note
+8110 SPRINGDALE RD,AUSTIN,Austin's Theatre – Austin,Austin's Theatre,Gentlemen's club,inferred,Filed by Playmates Gentleman's Club LLC
+126 I 20 S ACCESS RD,TYE,Baby Dolls Saloon – Tye,Baby Dolls Saloon,Gentlemen's club,verified,RCI adult nightclub brand
+10250 SHADY TRL,DALLAS,Baby Dolls – Dallas,Baby Dolls,Gentlemen's club,verified,RCI adult nightclub brand
+12325 CALLOWAY CEMETERY RD,EULESS,Baby Dolls Fort Worth – Euless,Baby Dolls,Gentlemen's club,verified,RCI adult nightclub brand
+3601 S HIGHWAY 157,EULESS,Baby Dolls – Euless (Hwy 157),Baby Dolls,Gentlemen's club,verified,Acquired Mar 2023; closed after a fire (RCI website)
+5316 SUPERIOR PKWY,FORT WORTH,Cabaret North – Fort Worth,Cabaret North,Gentlemen's club,verified,RCI adult nightclub brand
+2151 MANANA DR,DALLAS,Club Onyx – Dallas,Club Onyx,Gentlemen's club,verified,RCI adult nightclub brand
+3113 BERING DR,HOUSTON,Club Onyx – Houston,Club Onyx,Gentlemen's club,verified,RCI adult nightclub brand
+16328 N INTERSTATE 35,AUSTIN,Foxy's Cabaret – Austin,Foxy's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+10557 WIREWAY DR,DALLAS,Foxy's Cabaret – Dallas,Foxy's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+14286 W EXPRESSWAY 83,HARLINGEN,Jaguar's – Harlingen,Jaguar's,Gentlemen's club,verified,RCI adult nightclub brand
+3306 NW LOOP 338,ODESSA,PT's Showclub – Odessa,PT's Showclub,Gentlemen's club,verified,RCI adult nightclub brand
+15000 AIRPORT FWY,FORT WORTH,Rick's Cabaret – Fort Worth (Airport Fwy),Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+7101 CALMONT AVE,FORT WORTH,Rick's Cabaret – Fort Worth (Calmont Ave),Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+102 E COUNTY ROAD 7200,LUBBOCK,Rick's Cabaret – Lubbock,Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+101 SOLO RD,ODESSA,Rick's Cabaret – Odessa,Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+5418 BREWSTER ST,SAN ANTONIO,Rick's Cabaret – San Antonio,Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+410 N SAM HOUSTON PKWY E,HOUSTON,Rick's North – Houston,Rick's North,Gentlemen's club,verified,RCI adult nightclub brand
+2023 SABLE LN,SAN ANTONIO,Scarlett's Cabaret – San Antonio,Scarlett's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand
+3105 S INTERSTATE 35,ROUND ROCK,Scarlett's Rose – Round Rock,Scarlett's Rose,Gentlemen's club,verified,RCI adult nightclub brand
+7501 N STEMMONS FWY STE A,DALLAS,Silver City – Dallas,Silver City,Gentlemen's club,verified,"RCI adult nightclub brand; same building, suite changed 2011"
+7501 N STEMMONS FWY,DALLAS,Silver City – Dallas,Silver City,Gentlemen's club,verified,"RCI adult nightclub brand; same building, suite changed 2011"
+5900 COLLEGE ST,BEAUMONT,Temptations – Beaumont,Temptations,Gentlemen's club,verified,RCI adult nightclub brand
+8550 N STEMMONS FWY,DALLAS,XTC – Dallas,XTC,Gentlemen's club,verified,RCI adult nightclub brand
+2711 MAJESTY DR,ARLINGTON,Chicas Locas – Arlington,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand
+10723 COMPOSITE DR,DALLAS,Chicas Locas – Dallas,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand
+11377 GATEWAY BLVD W,EL PASO,Chicas Locas – El Paso,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand
+6440 SOUTHWEST FWY,HOUSTON,Chicas Locas – Houston,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand
+9009 AIRPORT BLVD,HOUSTON,Divas Latinas – Houston,Divas Latinas,Latin-themed club,inferred,Name suggests Latin-themed club
+5021 W UNIVERSITY DR,EDINBURG,Longhorn Saloon – Edinburg,Longhorn Saloon,Other bar / nightclub,inferred,Not on RCI's current brand list
+500 TAYLOR ST STE 405,FORT WORTH,Studio 80 – Fort Worth,Studio 80,Other bar / nightclub,inferred,Believed to be a dance nightclub; not on RCI's current brand list
+803 E NASA RD 1 STE 100,WEBSTER,Studio 80 – Webster,Studio 80,Other bar / nightclub,inferred,Believed to be a dance nightclub; not on RCI's current brand list
+12291 HIGHWAY 80 W,ALEDO,The New West – Aledo,The New West,Other bar / nightclub,inferred,Never traded under RCI (all $0 filings)
+2200 NE LOOP 820,FORT WORTH,Union Square – Fort Worth,Union Square,Other bar / nightclub,inferred,Not on RCI's current brand list
+701 N WATSON RD,ARLINGTON,Bombshells – Arlington,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+15119 INTERSTATE 35 BLDG C,AUSTIN,Bombshells – Austin,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+4120 COLLEGE ST,BEAUMONT,Bombshells – Beaumont,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+7501 N STEMMONS FWY STE 140,DALLAS,Bombshells – Dallas,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+12810 GULF FWY,HOUSTON,Bombshells – Houston (Gulf Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+13732 EAST FWY,HOUSTON,Bombshells – Houston (East Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+13903 SOUTH FWY # 288,HOUSTON,Bombshells – Pearland (South Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells chain; relocated along South Fwy in 2018
+13965 SOUTH FWY,HOUSTON,Bombshells – Pearland (South Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells chain; relocated along South Fwy in 2018
+14191 NORTHWEST FWY,HOUSTON,Bombshells – Houston (Northwest Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+17575 STATE HIGHWAY 249,HOUSTON,Bombshells – Houston (State Highway 249),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+6888 SOUTHWEST FWY,HOUSTON,Bombshells – Houston (Southwest Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+20516 KATY FWY,KATY,Bombshells – Katy,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+6407 SPUR 327,LUBBOCK,Bombshells – Lubbock,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+8525 MEIGAN ELISE DR,ROWLETT,Bombshells – Rowlett,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+8410 STATE HIGHWAY 151,SAN ANTONIO,Bombshells – San Antonio,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+21005 INTERSTATE 45,SPRING,Bombshells – Spring,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+12815 SOUTHWEST FWY,STAFFORD,Bombshells – Stafford,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain
+24628 STATE HIGHWAY 249,TOMBALL,Bombshells – Tomball,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain

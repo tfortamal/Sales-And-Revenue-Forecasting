@@ -1,0 +1,8 @@
+venue_type,entry_route,venues,median_year1_revenue,median_year2_revenue,median_year3_revenue,venues_with_3yr_history,survived_3yrs,survival_rate_3yrs,established_venue_median_ttm,established_venues
+Gentlemen's club,Acquired – dormant / reopened,3,1559654.0,933699.0,1779439.0,3,2.0,0.6666666666666666,1169891.0,13
+Gentlemen's club,Acquired – going concern,1,9626338.0,10071120.0,9480241.0,1,1.0,1.0,1169891.0,13
+Gentlemen's club,Other / unconfirmed,12,1216928.0,1370192.5,1433054.0,10,7.0,0.7,1169891.0,13
+Latin-themed club,Acquired – going concern,3,3495548.0,3273330.0,2980173.5,2,2.0,1.0,2116906.0,3
+Latin-themed club,Other / unconfirmed,1,107458.0,,,0,0.0,,2116906.0,3
+Other bar / nightclub,Other / unconfirmed,3,1045791.0,1105350.0,626397.0,3,2.0,0.6666666666666666,1861959.0,1
+Sports-bar restaurant,Opened by RCI,15,2577898.5,1958264.0,2316840.5,12,12.0,1.0,1653143.5,10

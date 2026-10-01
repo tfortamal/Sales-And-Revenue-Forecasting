@@ -1,0 +1,178 @@
+Venue Type,Year,Drink,Drink Revenue,Share of Drinks,Share Label
+Gentlemen's club,2007,Beer,3581121,0.3021,30%
+Gentlemen's club,2007,Liquor,6805514,0.5741,57%
+Gentlemen's club,2007,Wine,1467687,0.1238,12%
+Gentlemen's club,2008,Beer,3701071,0.3278,33%
+Gentlemen's club,2008,Liquor,6386529,0.5656,57%
+Gentlemen's club,2008,Wine,1204712,0.1067,11%
+Gentlemen's club,2009,Beer,3080414,0.2875,29%
+Gentlemen's club,2009,Liquor,6645086,0.6201,62%
+Gentlemen's club,2009,Wine,990436,0.0924,9%
+Gentlemen's club,2010,Beer,3516363,0.3060,31%
+Gentlemen's club,2010,Liquor,7342662,0.6390,64%
+Gentlemen's club,2010,Wine,631775,0.0550,5%
+Gentlemen's club,2011,Beer,3867069,0.2717,27%
+Gentlemen's club,2011,Liquor,9462824,0.6648,66%
+Gentlemen's club,2011,Wine,904264,0.0635,6%
+Gentlemen's club,2012,Beer,4382967,0.2569,26%
+Gentlemen's club,2012,Liquor,11147340,0.6533,65%
+Gentlemen's club,2012,Wine,1532675,0.0898,9%
+Gentlemen's club,2013,Beer,4026657,0.2538,25%
+Gentlemen's club,2013,Liquor,10693919,0.6739,67%
+Gentlemen's club,2013,Wine,1147820,0.0723,7%
+Gentlemen's club,2014,Beer,4249618,0.2503,25%
+Gentlemen's club,2014,Liquor,11497051,0.6772,68%
+Gentlemen's club,2014,Wine,1231590,0.0725,7%
+Gentlemen's club,2015,Beer,3858891,0.2443,24%
+Gentlemen's club,2015,Liquor,10681212,0.6761,68%
+Gentlemen's club,2015,Wine,1257108,0.0796,8%
+Gentlemen's club,2016,Beer,3222048,0.2410,24%
+Gentlemen's club,2016,Liquor,8957654,0.6700,67%
+Gentlemen's club,2016,Wine,1188971,0.0889,9%
+Gentlemen's club,2017,Beer,2745974,0.2230,22%
+Gentlemen's club,2017,Liquor,8169309,0.6633,66%
+Gentlemen's club,2017,Wine,1400536,0.1137,11%
+Gentlemen's club,2018,Beer,2699771,0.2110,21%
+Gentlemen's club,2018,Liquor,8327403,0.6509,65%
+Gentlemen's club,2018,Wine,1766514,0.1381,14%
+Gentlemen's club,2019,Beer,2502747,0.1988,20%
+Gentlemen's club,2019,Liquor,8375504,0.6654,67%
+Gentlemen's club,2019,Wine,1708104,0.1357,14%
+Gentlemen's club,2020,Beer,1417724,0.1766,18%
+Gentlemen's club,2020,Liquor,5554055,0.6920,69%
+Gentlemen's club,2020,Wine,1054753,0.1314,13%
+Gentlemen's club,2021,Beer,2373642,0.1844,18%
+Gentlemen's club,2021,Liquor,8795647,0.6833,68%
+Gentlemen's club,2021,Wine,1702109,0.1322,13%
+Gentlemen's club,2022,Beer,2638415,0.1928,19%
+Gentlemen's club,2022,Liquor,8988646,0.6567,66%
+Gentlemen's club,2022,Wine,2060663,0.1505,15%
+Gentlemen's club,2023,Beer,4990767,0.2173,22%
+Gentlemen's club,2023,Liquor,12623856,0.5498,55%
+Gentlemen's club,2023,Wine,5347654,0.2329,23%
+Gentlemen's club,2024,Beer,6297430,0.2311,23%
+Gentlemen's club,2024,Liquor,14697203,0.5393,54%
+Gentlemen's club,2024,Wine,6258555,0.2296,23%
+Gentlemen's club,2025,Beer,5638530,0.2324,23%
+Gentlemen's club,2025,Liquor,12763648,0.5261,53%
+Gentlemen's club,2025,Wine,5857223,0.2414,24%
+Gentlemen's club,2026,Beer,3432536,0.2288,23%
+Gentlemen's club,2026,Liquor,7714045,0.5141,51%
+Gentlemen's club,2026,Wine,3856933,0.2571,26%
+Latin-themed club,2007,Beer,117760,0.2683,27%
+Latin-themed club,2007,Liquor,304838,0.6945,69%
+Latin-themed club,2007,Wine,16363,0.0373,4%
+Latin-themed club,2008,Beer,84162,0.2539,25%
+Latin-themed club,2008,Liquor,237611,0.7167,72%
+Latin-themed club,2008,Wine,9751,0.0294,3%
+Latin-themed club,2009,Beer,65707,0.3861,39%
+Latin-themed club,2009,Liquor,102270,0.6010,60%
+Latin-themed club,2009,Wine,2191,0.0129,1%
+Latin-themed club,2023,Beer,2582960,0.4156,42%
+Latin-themed club,2023,Liquor,2879087,0.4633,46%
+Latin-themed club,2023,Wine,752773,0.1211,12%
+Latin-themed club,2024,Beer,4308068,0.4660,47%
+Latin-themed club,2024,Liquor,4076456,0.4409,44%
+Latin-themed club,2024,Wine,860883,0.0931,9%
+Latin-themed club,2025,Beer,3228081,0.4176,42%
+Latin-themed club,2025,Liquor,3740351,0.4839,48%
+Latin-themed club,2025,Wine,761603,0.0985,10%
+Latin-themed club,2026,Beer,1782945,0.3719,37%
+Latin-themed club,2026,Liquor,2437775,0.5084,51%
+Latin-themed club,2026,Wine,573871,0.1197,12%
+Other bar / nightclub,2007,Beer,99302,0.4908,49%
+Other bar / nightclub,2007,Liquor,100878,0.4986,50%
+Other bar / nightclub,2007,Wine,2153,0.0106,1%
+Other bar / nightclub,2008,Beer,69769,0.5982,60%
+Other bar / nightclub,2008,Liquor,46082,0.3951,40%
+Other bar / nightclub,2008,Wine,781,0.0067,1%
+Other bar / nightclub,2009,Beer,40542,0.6281,63%
+Other bar / nightclub,2009,Liquor,22873,0.3544,35%
+Other bar / nightclub,2009,Wine,1128,0.0175,2%
+Other bar / nightclub,2010,Beer,4475,0.6682,67%
+Other bar / nightclub,2010,Liquor,2016,0.3010,30%
+Other bar / nightclub,2010,Wine,206,0.0308,3%
+Other bar / nightclub,2013,Beer,603650,0.3532,35%
+Other bar / nightclub,2013,Liquor,1028609,0.6019,60%
+Other bar / nightclub,2013,Wine,76788,0.0449,4%
+Other bar / nightclub,2014,Beer,1404699,0.3896,39%
+Other bar / nightclub,2014,Liquor,2131619,0.5913,59%
+Other bar / nightclub,2014,Wine,68785,0.0191,2%
+Other bar / nightclub,2015,Beer,1077835,0.3781,38%
+Other bar / nightclub,2015,Liquor,1722267,0.6041,60%
+Other bar / nightclub,2015,Wine,50844,0.0178,2%
+Other bar / nightclub,2016,Beer,615787,0.3577,36%
+Other bar / nightclub,2016,Liquor,1081011,0.6280,63%
+Other bar / nightclub,2016,Wine,24574,0.0143,1%
+Other bar / nightclub,2017,Beer,663254,0.2924,29%
+Other bar / nightclub,2017,Liquor,1543616,0.6806,68%
+Other bar / nightclub,2017,Wine,61135,0.0270,3%
+Other bar / nightclub,2018,Beer,704125,0.2938,29%
+Other bar / nightclub,2018,Liquor,1621497,0.6766,68%
+Other bar / nightclub,2018,Wine,71038,0.0296,3%
+Other bar / nightclub,2019,Beer,602439,0.2747,27%
+Other bar / nightclub,2019,Liquor,1544915,0.7045,70%
+Other bar / nightclub,2019,Wine,45429,0.0207,2%
+Other bar / nightclub,2020,Beer,139793,0.2348,23%
+Other bar / nightclub,2020,Liquor,440512,0.7399,74%
+Other bar / nightclub,2020,Wine,15065,0.0253,3%
+Other bar / nightclub,2021,Beer,199098,0.1883,19%
+Other bar / nightclub,2021,Liquor,829045,0.7839,78%
+Other bar / nightclub,2021,Wine,29481,0.0279,3%
+Other bar / nightclub,2022,Beer,236499,0.1846,18%
+Other bar / nightclub,2022,Liquor,1016451,0.7933,79%
+Other bar / nightclub,2022,Wine,28289,0.0221,2%
+Other bar / nightclub,2023,Beer,381954,0.2212,22%
+Other bar / nightclub,2023,Liquor,1309765,0.7584,76%
+Other bar / nightclub,2023,Wine,35370,0.0205,2%
+Other bar / nightclub,2024,Beer,474254,0.2515,25%
+Other bar / nightclub,2024,Liquor,1373864,0.7287,73%
+Other bar / nightclub,2024,Wine,37240,0.0198,2%
+Other bar / nightclub,2025,Beer,501933,0.2609,26%
+Other bar / nightclub,2025,Liquor,1391806,0.7233,72%
+Other bar / nightclub,2025,Wine,30435,0.0158,2%
+Other bar / nightclub,2026,Beer,316237,0.2685,27%
+Other bar / nightclub,2026,Liquor,842675,0.7153,72%
+Other bar / nightclub,2026,Wine,19097,0.0162,2%
+Sports-bar restaurant,2013,Beer,652433,0.4922,49%
+Sports-bar restaurant,2013,Liquor,663077,0.5002,50%
+Sports-bar restaurant,2013,Wine,10142,0.0077,1%
+Sports-bar restaurant,2014,Beer,1873363,0.4955,50%
+Sports-bar restaurant,2014,Liquor,1878541,0.4968,50%
+Sports-bar restaurant,2014,Wine,29118,0.0077,1%
+Sports-bar restaurant,2015,Beer,4461348,0.4886,49%
+Sports-bar restaurant,2015,Liquor,4625151,0.5065,51%
+Sports-bar restaurant,2015,Wine,44536,0.0049,0%
+Sports-bar restaurant,2016,Beer,5109111,0.4690,47%
+Sports-bar restaurant,2016,Liquor,5745126,0.5273,53%
+Sports-bar restaurant,2016,Wine,40303,0.0037,0%
+Sports-bar restaurant,2017,Beer,5761114,0.4530,45%
+Sports-bar restaurant,2017,Liquor,6913091,0.5436,54%
+Sports-bar restaurant,2017,Wine,42508,0.0033,0%
+Sports-bar restaurant,2018,Beer,6177515,0.4366,44%
+Sports-bar restaurant,2018,Liquor,7917337,0.5596,56%
+Sports-bar restaurant,2018,Wine,53362,0.0038,0%
+Sports-bar restaurant,2019,Beer,9142349,0.4478,45%
+Sports-bar restaurant,2019,Liquor,11197545,0.5485,55%
+Sports-bar restaurant,2019,Wine,74700,0.0037,0%
+Sports-bar restaurant,2020,Beer,10196472,0.3541,35%
+Sports-bar restaurant,2020,Liquor,18537580,0.6437,64%
+Sports-bar restaurant,2020,Wine,62416,0.0022,0%
+Sports-bar restaurant,2021,Beer,11398046,0.3463,35%
+Sports-bar restaurant,2021,Liquor,21447778,0.6515,65%
+Sports-bar restaurant,2021,Wine,72709,0.0022,0%
+Sports-bar restaurant,2022,Beer,12988025,0.3737,37%
+Sports-bar restaurant,2022,Liquor,21696036,0.6242,62%
+Sports-bar restaurant,2022,Wine,71494,0.0021,0%
+Sports-bar restaurant,2023,Beer,11607130,0.3934,39%
+Sports-bar restaurant,2023,Liquor,17814152,0.6038,60%
+Sports-bar restaurant,2023,Wine,82547,0.0028,0%
+Sports-bar restaurant,2024,Beer,10298128,0.4091,41%
+Sports-bar restaurant,2024,Liquor,14786604,0.5874,59%
+Sports-bar restaurant,2024,Wine,88230,0.0035,0%
+Sports-bar restaurant,2025,Beer,8104856,0.4320,43%
+Sports-bar restaurant,2025,Liquor,10591321,0.5646,56%
+Sports-bar restaurant,2025,Wine,63246,0.0034,0%
+Sports-bar restaurant,2026,Beer,6105852,0.4228,42%
+Sports-bar restaurant,2026,Liquor,8275958,0.5730,57%
+Sports-bar restaurant,2026,Wine,60654,0.0042,0%

@@ -1,0 +1,395 @@
+period,period_end,venue_name,venue_type,component,prior_revenue,current_revenue,change
+2008,2008-12-01,Austin's Theatre – Austin,Gentlemen's club,Same-venue growth,837729.0,599271.0,-238458.0
+2008,2008-12-01,Cabaret North – Fort Worth,Gentlemen's club,New venues (opened / other),0.0,999790.0,999790.0
+2008,2008-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,1124978.0,812369.0,-312609.0
+2008,2008-12-01,Divas Latinas – Houston,Latin-themed club,Same-venue growth,438961.0,331524.0,-107437.0
+2008,2008-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,New venues (opened / other),0.0,82619.0,82619.0
+2008,2008-12-01,Longhorn Saloon – Edinburg,Other bar / nightclub,Same-venue growth,202333.0,116632.0,-85701.0
+2008,2008-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2694220.0,2465416.0,-228804.0
+2008,2008-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1126554.0,854586.0,-271968.0
+2008,2008-12-01,Rick's North – Houston,Gentlemen's club,Same-venue growth,1636054.0,1364638.0,-271416.0
+2008,2008-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,3397298.0,3026009.0,-371289.0
+2008,2008-12-01,XTC – Dallas,Gentlemen's club,Same-venue growth,1037489.0,1087614.0,50125.0
+2009,2009-12-01,Austin's Theatre – Austin,Gentlemen's club,Same-venue growth,599271.0,252457.0,-346814.0
+2009,2009-12-01,Cabaret North – Fort Worth,Gentlemen's club,New venues (opened / other),999790.0,1800495.0,800705.0
+2009,2009-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,812369.0,737800.0,-74569.0
+2009,2009-12-01,Divas Latinas – Houston,Latin-themed club,Closed venues,331524.0,170168.0,-161356.0
+2009,2009-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,New venues (opened / other),82619.0,1495881.0,1413262.0
+2009,2009-12-01,Longhorn Saloon – Edinburg,Other bar / nightclub,Same-venue growth,116632.0,64543.0,-52089.0
+2009,2009-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2465416.0,2017814.0,-447602.0
+2009,2009-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,854586.0,938593.0,84007.0
+2009,2009-12-01,Rick's North – Houston,Gentlemen's club,Same-venue growth,1364638.0,1080430.0,-284208.0
+2009,2009-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Acquired venues,0.0,124410.0,124410.0
+2009,2009-12-01,Silver City – Dallas,Gentlemen's club,Closed venues,3026009.0,2272858.0,-753151.0
+2009,2009-12-01,XTC – Dallas,Gentlemen's club,Closed venues,1087614.0,17368.0,-1070246.0
+2010,2010-12-01,Austin's Theatre – Austin,Gentlemen's club,Same-venue growth,252457.0,141010.0,-111447.0
+2010,2010-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,New venues (opened / other),0.0,102655.0,102655.0
+2010,2010-12-01,Cabaret North – Fort Worth,Gentlemen's club,Same-venue growth,1800495.0,2618569.0,818074.0
+2010,2010-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,737800.0,576628.0,-161172.0
+2010,2010-12-01,Divas Latinas – Houston,Latin-themed club,Closed venues,170168.0,0.0,-170168.0
+2010,2010-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,1495881.0,2334469.0,838588.0
+2010,2010-12-01,Longhorn Saloon – Edinburg,Other bar / nightclub,Closed venues,64543.0,6697.0,-57846.0
+2010,2010-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2017814.0,2186971.0,169157.0
+2010,2010-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,938593.0,1108360.0,169767.0
+2010,2010-12-01,Rick's North – Houston,Gentlemen's club,Same-venue growth,1080430.0,810591.0,-269839.0
+2010,2010-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Acquired venues,124410.0,1611547.0,1487137.0
+2010,2010-12-01,Silver City – Dallas,Gentlemen's club,Closed venues,2272858.0,0.0,-2272858.0
+2010,2010-12-01,XTC – Dallas,Gentlemen's club,Closed venues,17368.0,0.0,-17368.0
+2011,2011-12-01,Austin's Theatre – Austin,Gentlemen's club,Same-venue growth,141010.0,24430.0,-116580.0
+2011,2011-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,New venues (opened / other),102655.0,1585694.0,1483039.0
+2011,2011-12-01,Cabaret North – Fort Worth,Gentlemen's club,Same-venue growth,2618569.0,2320589.0,-297980.0
+2011,2011-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,576628.0,573034.0,-3594.0
+2011,2011-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,2334469.0,2182136.0,-152333.0
+2011,2011-12-01,Longhorn Saloon – Edinburg,Other bar / nightclub,Closed venues,6697.0,0.0,-6697.0
+2011,2011-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2186971.0,2204188.0,17217.0
+2011,2011-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1108360.0,1541721.0,433361.0
+2011,2011-12-01,Rick's North – Houston,Gentlemen's club,Same-venue growth,810591.0,628452.0,-182139.0
+2011,2011-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1611547.0,2655643.0,1044096.0
+2011,2011-12-01,Silver City – Dallas,Gentlemen's club,New venues (opened / other),0.0,518270.0,518270.0
+2012,2012-12-01,Austin's Theatre – Austin,Gentlemen's club,Same-venue growth,24430.0,26563.0,2133.0
+2012,2012-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1585694.0,1922994.0,337300.0
+2012,2012-12-01,Cabaret North – Fort Worth,Gentlemen's club,Same-venue growth,2320589.0,2325743.0,5154.0
+2012,2012-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,573034.0,678559.0,105525.0
+2012,2012-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,2182136.0,1641589.0,-540547.0
+2012,2012-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,New venues (opened / other),0.0,1535998.0,1535998.0
+2012,2012-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2204188.0,2206435.0,2247.0
+2012,2012-12-01,Rick's Cabaret – Lubbock,Gentlemen's club,New venues (opened / other),0.0,225017.0,225017.0
+2012,2012-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1541721.0,1456315.0,-85406.0
+2012,2012-12-01,Rick's North – Houston,Gentlemen's club,Same-venue growth,628452.0,720115.0,91663.0
+2012,2012-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,2655643.0,2546138.0,-109505.0
+2012,2012-12-01,Silver City – Dallas,Gentlemen's club,New venues (opened / other),518270.0,1777516.0,1259246.0
+2013,2013-12-01,Austin's Theatre – Austin,Gentlemen's club,Closed venues,26563.0,20784.0,-5779.0
+2013,2013-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1922994.0,1758255.0,-164739.0
+2013,2013-12-01,Bombshells – Dallas,Sports-bar restaurant,New venues (opened / other),0.0,1325652.0,1325652.0
+2013,2013-12-01,Cabaret North – Fort Worth,Gentlemen's club,Same-venue growth,2325743.0,1792195.0,-533548.0
+2013,2013-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,678559.0,754442.0,75883.0
+2013,2013-12-01,Foxy's Cabaret – Austin,Gentlemen's club,New venues (opened / other),0.0,412888.0,412888.0
+2013,2013-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,1641589.0,1658379.0,16790.0
+2013,2013-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,New venues (opened / other),1535998.0,1683276.0,147278.0
+2013,2013-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2206435.0,2016515.0,-189920.0
+2013,2013-12-01,Rick's Cabaret – Lubbock,Gentlemen's club,New venues (opened / other),225017.0,471830.0,246813.0
+2013,2013-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1456315.0,1418686.0,-37629.0
+2013,2013-12-01,Rick's North – Houston,Gentlemen's club,Closed venues,720115.0,297797.0,-422318.0
+2013,2013-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,2546138.0,2065114.0,-481024.0
+2013,2013-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1777516.0,1436076.0,-341440.0
+2013,2013-12-01,Studio 80 – Fort Worth,Other bar / nightclub,New venues (opened / other),0.0,1010086.0,1010086.0
+2013,2013-12-01,Temptations – Beaumont,Gentlemen's club,New venues (opened / other),0.0,82159.0,82159.0
+2013,2013-12-01,Union Square – Fort Worth,Other bar / nightclub,New venues (opened / other),0.0,698961.0,698961.0
+2014,2014-12-01,Austin's Theatre – Austin,Gentlemen's club,Closed venues,20784.0,37236.0,16452.0
+2014,2014-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1758255.0,1418363.0,-339892.0
+2014,2014-12-01,Bombshells – Austin,Sports-bar restaurant,New venues (opened / other),0.0,966507.0,966507.0
+2014,2014-12-01,Bombshells – Dallas,Sports-bar restaurant,New venues (opened / other),1325652.0,1480944.0,155292.0
+2014,2014-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,New venues (opened / other),0.0,710631.0,710631.0
+2014,2014-12-01,Bombshells – Spring,Sports-bar restaurant,New venues (opened / other),0.0,622940.0,622940.0
+2014,2014-12-01,Cabaret North – Fort Worth,Gentlemen's club,Same-venue growth,1792195.0,2075357.0,283162.0
+2014,2014-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,754442.0,724882.0,-29560.0
+2014,2014-12-01,Foxy's Cabaret – Austin,Gentlemen's club,New venues (opened / other),412888.0,1585652.0,1172764.0
+2014,2014-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,1658379.0,1267922.0,-390457.0
+2014,2014-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1683276.0,1401893.0,-281383.0
+2014,2014-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2016515.0,2008764.0,-7751.0
+2014,2014-12-01,Rick's Cabaret – Lubbock,Gentlemen's club,Closed venues,471830.0,43594.0,-428236.0
+2014,2014-12-01,Rick's Cabaret – Odessa,Gentlemen's club,New venues (opened / other),0.0,612396.0,612396.0
+2014,2014-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1418686.0,1639284.0,220598.0
+2014,2014-12-01,Rick's North – Houston,Gentlemen's club,Closed venues,297797.0,0.0,-297797.0
+2014,2014-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,2065114.0,1817809.0,-247305.0
+2014,2014-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1436076.0,1621902.0,185826.0
+2014,2014-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1010086.0,1711285.0,701199.0
+2014,2014-12-01,Studio 80 – Webster,Other bar / nightclub,New venues (opened / other),0.0,1260913.0,1260913.0
+2014,2014-12-01,Temptations – Beaumont,Gentlemen's club,New venues (opened / other),82159.0,723565.0,641406.0
+2014,2014-12-01,Union Square – Fort Worth,Other bar / nightclub,New venues (opened / other),698961.0,632905.0,-66056.0
+2015,2015-12-01,Austin's Theatre – Austin,Gentlemen's club,Closed venues,37236.0,0.0,-37236.0
+2015,2015-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1418363.0,1425550.0,7187.0
+2015,2015-12-01,Bombshells – Austin,Sports-bar restaurant,New venues (opened / other),966507.0,1256960.0,290453.0
+2015,2015-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,1480944.0,2319983.0,839039.0
+2015,2015-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,New venues (opened / other),710631.0,3686729.0,2976098.0
+2015,2015-12-01,Bombshells – Spring,Sports-bar restaurant,New venues (opened / other),622940.0,1867363.0,1244423.0
+2015,2015-12-01,Cabaret North – Fort Worth,Gentlemen's club,Same-venue growth,2075357.0,1123594.0,-951763.0
+2015,2015-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,724882.0,998872.0,273990.0
+2015,2015-12-01,Foxy's Cabaret – Austin,Gentlemen's club,Same-venue growth,1585652.0,1126082.0,-459570.0
+2015,2015-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,1267922.0,1136983.0,-130939.0
+2015,2015-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1401893.0,1240218.0,-161675.0
+2015,2015-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,2008764.0,1758521.0,-250243.0
+2015,2015-12-01,Rick's Cabaret – Lubbock,Gentlemen's club,Closed venues,43594.0,0.0,-43594.0
+2015,2015-12-01,Rick's Cabaret – Odessa,Gentlemen's club,New venues (opened / other),612396.0,1751599.0,1139203.0
+2015,2015-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1639284.0,1278714.0,-360570.0
+2015,2015-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1817809.0,1737962.0,-79847.0
+2015,2015-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1621902.0,1311061.0,-310841.0
+2015,2015-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1711285.0,1338841.0,-372444.0
+2015,2015-12-01,Studio 80 – Webster,Other bar / nightclub,Same-venue growth,1260913.0,1105350.0,-155563.0
+2015,2015-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,723565.0,908055.0,184490.0
+2015,2015-12-01,Union Square – Fort Worth,Other bar / nightclub,Closed venues,632905.0,406755.0,-226150.0
+2016,2016-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1425550.0,1301513.0,-124037.0
+2016,2016-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1256960.0,1261275.0,4315.0
+2016,2016-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,2319983.0,3443858.0,1123875.0
+2016,2016-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,3686729.0,4328597.0,641868.0
+2016,2016-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,1867363.0,1860810.0,-6553.0
+2016,2016-12-01,Cabaret North – Fort Worth,Gentlemen's club,Closed venues,1123594.0,784796.0,-338798.0
+2016,2016-12-01,Club Onyx – Dallas,Gentlemen's club,New venues (opened / other),0.0,333641.0,333641.0
+2016,2016-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,998872.0,872616.0,-126256.0
+2016,2016-12-01,Foxy's Cabaret – Austin,Gentlemen's club,Closed venues,1126082.0,52929.0,-1073153.0
+2016,2016-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Same-venue growth,1136983.0,583996.0,-552987.0
+2016,2016-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1240218.0,1403721.0,163503.0
+2016,2016-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1758521.0,1624181.0,-134340.0
+2016,2016-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1751599.0,1489164.0,-262435.0
+2016,2016-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1278714.0,1167712.0,-111002.0
+2016,2016-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1737962.0,1752006.0,14044.0
+2016,2016-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1311061.0,1137987.0,-173074.0
+2016,2016-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1338841.0,1094975.0,-243866.0
+2016,2016-12-01,Studio 80 – Webster,Other bar / nightclub,Same-venue growth,1105350.0,626397.0,-478953.0
+2016,2016-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,908055.0,864411.0,-43644.0
+2016,2016-12-01,Union Square – Fort Worth,Other bar / nightclub,Closed venues,406755.0,0.0,-406755.0
+2017,2017-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1301513.0,1443004.0,141491.0
+2017,2017-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1261275.0,1202935.0,-58340.0
+2017,2017-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,3443858.0,4031321.0,587463.0
+2017,2017-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,4328597.0,3965103.0,-363494.0
+2017,2017-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,New venues (opened / other),0.0,1380239.0,1380239.0
+2017,2017-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,1860810.0,2137115.0,276305.0
+2017,2017-12-01,Cabaret North – Fort Worth,Gentlemen's club,Closed venues,784796.0,0.0,-784796.0
+2017,2017-12-01,Club Onyx – Dallas,Gentlemen's club,New venues (opened / other),333641.0,560562.0,226921.0
+2017,2017-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,872616.0,934369.0,61753.0
+2017,2017-12-01,Foxy's Cabaret – Austin,Gentlemen's club,Closed venues,52929.0,0.0,-52929.0
+2017,2017-12-01,Foxy's Cabaret – Dallas,Gentlemen's club,Closed venues,583996.0,0.0,-583996.0
+2017,2017-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1403721.0,1346622.0,-57099.0
+2017,2017-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1624181.0,1585595.0,-38586.0
+2017,2017-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1489164.0,1519968.0,30804.0
+2017,2017-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1167712.0,1072302.0,-95410.0
+2017,2017-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1752006.0,1651326.0,-100680.0
+2017,2017-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1137987.0,1307115.0,169128.0
+2017,2017-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1094975.0,1585422.0,490447.0
+2017,2017-12-01,Studio 80 – Webster,Other bar / nightclub,Same-venue growth,626397.0,682583.0,56186.0
+2017,2017-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,864411.0,894956.0,30545.0
+2018,2018-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1443004.0,1548098.0,105094.0
+2018,2018-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1202935.0,1180337.0,-22598.0
+2018,2018-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,4031321.0,3596663.0,-434658.0
+2018,2018-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,New venues (opened / other),0.0,190067.0,190067.0
+2018,2018-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,3965103.0,2775170.0,-1189933.0
+2018,2018-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,New venues (opened / other),1380239.0,2129184.0,748945.0
+2018,2018-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,New venues (opened / other),0.0,1986819.0,1986819.0
+2018,2018-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,2137115.0,2289974.0,152859.0
+2018,2018-12-01,Club Onyx – Dallas,Gentlemen's club,Closed venues,560562.0,25866.0,-534696.0
+2018,2018-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,934369.0,835246.0,-99123.0
+2018,2018-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1346622.0,1343901.0,-2721.0
+2018,2018-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1585595.0,1625191.0,39596.0
+2018,2018-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1519968.0,2542260.0,1022292.0
+2018,2018-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1072302.0,1174752.0,102450.0
+2018,2018-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1651326.0,1420808.0,-230518.0
+2018,2018-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1307115.0,1324460.0,17345.0
+2018,2018-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1585422.0,1523918.0,-61504.0
+2018,2018-12-01,Studio 80 – Webster,Other bar / nightclub,Same-venue growth,682583.0,872742.0,190159.0
+2018,2018-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,894956.0,953106.0,58150.0
+2019,2019-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1548098.0,1378568.0,-169530.0
+2019,2019-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1180337.0,1604226.0,423889.0
+2019,2019-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,3596663.0,3338904.0,-257759.0
+2019,2019-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,New venues (opened / other),190067.0,3278222.0,3088155.0
+2019,2019-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,2775170.0,2585202.0,-189968.0
+2019,2019-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,2129184.0,2240122.0,110938.0
+2019,2019-12-01,Bombshells – Katy,Sports-bar restaurant,New venues (opened / other),0.0,891219.0,891219.0
+2019,2019-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,New venues (opened / other),1986819.0,2290474.0,303655.0
+2019,2019-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,2289974.0,2526766.0,236792.0
+2019,2019-12-01,Bombshells – Tomball,Sports-bar restaurant,New venues (opened / other),0.0,1659459.0,1659459.0
+2019,2019-12-01,Club Onyx – Dallas,Gentlemen's club,Closed venues,25866.0,0.0,-25866.0
+2019,2019-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,835246.0,894974.0,59728.0
+2019,2019-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1343901.0,1191344.0,-152557.0
+2019,2019-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1625191.0,1399499.0,-225692.0
+2019,2019-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,2542260.0,2731014.0,188754.0
+2019,2019-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1174752.0,1198239.0,23487.0
+2019,2019-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1420808.0,1375717.0,-45091.0
+2019,2019-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1324460.0,1463440.0,138980.0
+2019,2019-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1523918.0,1787028.0,263110.0
+2019,2019-12-01,Studio 80 – Webster,Other bar / nightclub,Closed venues,872742.0,405755.0,-466987.0
+2019,2019-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,953106.0,953560.0,454.0
+2020,2020-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1378568.0,992952.0,-385616.0
+2020,2020-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1604226.0,1826271.0,222045.0
+2020,2020-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,3338904.0,3721702.0,382798.0
+2020,2020-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,3278222.0,3133216.0,-145006.0
+2020,2020-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,2585202.0,2371907.0,-213295.0
+2020,2020-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,2240122.0,2969313.0,729191.0
+2020,2020-12-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,New venues (opened / other),0.0,3348657.0,3348657.0
+2020,2020-12-01,Bombshells – Katy,Sports-bar restaurant,New venues (opened / other),891219.0,3828492.0,2937273.0
+2020,2020-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,2290474.0,2448236.0,157762.0
+2020,2020-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,2526766.0,3179874.0,653108.0
+2020,2020-12-01,Bombshells – Tomball,Sports-bar restaurant,New venues (opened / other),1659459.0,1968800.0,309341.0
+2020,2020-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,894974.0,1233166.0,338192.0
+2020,2020-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1191344.0,805089.0,-386255.0
+2020,2020-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1399499.0,948934.0,-450565.0
+2020,2020-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,2731014.0,1141934.0,-1589080.0
+2020,2020-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1198239.0,557553.0,-640686.0
+2020,2020-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1375717.0,932360.0,-443357.0
+2020,2020-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1463440.0,853214.0,-610226.0
+2020,2020-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1787028.0,595370.0,-1191658.0
+2020,2020-12-01,Studio 80 – Webster,Other bar / nightclub,Closed venues,405755.0,0.0,-405755.0
+2020,2020-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,953560.0,561330.0,-392230.0
+2021,2021-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,992952.0,1884754.0,891802.0
+2021,2021-12-01,Bombshells – Arlington,Sports-bar restaurant,New venues (opened / other),0.0,442747.0,442747.0
+2021,2021-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1826271.0,2234050.0,407779.0
+2021,2021-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,3721702.0,3886084.0,164382.0
+2021,2021-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,3133216.0,3681189.0,547973.0
+2021,2021-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,2371907.0,3623018.0,1251111.0
+2021,2021-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,2969313.0,3161640.0,192327.0
+2021,2021-12-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,Same-venue growth,3348657.0,3544437.0,195780.0
+2021,2021-12-01,Bombshells – Katy,Sports-bar restaurant,Same-venue growth,3828492.0,3809263.0,-19229.0
+2021,2021-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,2448236.0,3016751.0,568515.0
+2021,2021-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,3179874.0,3714980.0,535106.0
+2021,2021-12-01,Bombshells – Tomball,Sports-bar restaurant,Same-venue growth,1968800.0,1804374.0,-164426.0
+2021,2021-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,1233166.0,1783949.0,550783.0
+2021,2021-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,805089.0,1394292.0,589203.0
+2021,2021-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,948934.0,1630054.0,681120.0
+2021,2021-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1141934.0,1381251.0,239317.0
+2021,2021-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,557553.0,1007436.0,449883.0
+2021,2021-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,932360.0,1220683.0,288323.0
+2021,2021-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,853214.0,1526113.0,672899.0
+2021,2021-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,595370.0,1057624.0,462254.0
+2021,2021-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,561330.0,1042866.0,481536.0
+2022,2022-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1884754.0,2030003.0,145249.0
+2022,2022-12-01,Bombshells – Arlington,Sports-bar restaurant,New venues (opened / other),442747.0,3028362.0,2585615.0
+2022,2022-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,2234050.0,2093620.0,-140430.0
+2022,2022-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,3886084.0,3287526.0,-598558.0
+2022,2022-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,3681189.0,3271948.0,-409241.0
+2022,2022-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,3623018.0,3301112.0,-321906.0
+2022,2022-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,3161640.0,2989550.0,-172090.0
+2022,2022-12-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,Same-venue growth,3544437.0,3140551.0,-403886.0
+2022,2022-12-01,Bombshells – Katy,Sports-bar restaurant,Same-venue growth,3809263.0,3303783.0,-505480.0
+2022,2022-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,3016751.0,3343504.0,326753.0
+2022,2022-12-01,Bombshells – San Antonio,Sports-bar restaurant,New venues (opened / other),0.0,2185928.0,2185928.0
+2022,2022-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,3714980.0,3066594.0,-648386.0
+2022,2022-12-01,Bombshells – Tomball,Sports-bar restaurant,Same-venue growth,1804374.0,1748197.0,-56177.0
+2022,2022-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,1783949.0,1430886.0,-353063.0
+2022,2022-12-01,PT's Showclub – Odessa,Gentlemen's club,Acquired venues,0.0,234510.0,234510.0
+2022,2022-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1394292.0,1598484.0,204192.0
+2022,2022-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1630054.0,1694587.0,64533.0
+2022,2022-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1381251.0,1836524.0,455273.0
+2022,2022-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Closed venues,1007436.0,347064.0,-660372.0
+2022,2022-12-01,Scarlett's Cabaret – San Antonio,Gentlemen's club,New venues (opened / other),0.0,243133.0,243133.0
+2022,2022-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1220683.0,1360676.0,139993.0
+2022,2022-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1526113.0,1761483.0,235370.0
+2022,2022-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1057624.0,1281239.0,223615.0
+2022,2022-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,1042866.0,1150374.0,107508.0
+2023,2023-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,2030003.0,1674726.0,-355277.0
+2023,2023-12-01,Baby Dolls – Dallas,Gentlemen's club,Acquired venues,0.0,7980210.0,7980210.0
+2023,2023-12-01,Baby Dolls – Euless (Hwy 157),Gentlemen's club,Acquired venues,0.0,998678.0,998678.0
+2023,2023-12-01,Bombshells – Arlington,Sports-bar restaurant,Same-venue growth,3028362.0,2056678.0,-971684.0
+2023,2023-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,2093620.0,1642353.0,-451267.0
+2023,2023-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,3287526.0,2270820.0,-1016706.0
+2023,2023-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,3271948.0,2542792.0,-729156.0
+2023,2023-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Same-venue growth,3301112.0,2909719.0,-391393.0
+2023,2023-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,2989550.0,2566778.0,-422772.0
+2023,2023-12-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,Same-venue growth,3140551.0,2928584.0,-211967.0
+2023,2023-12-01,Bombshells – Katy,Sports-bar restaurant,Same-venue growth,3303783.0,3060102.0,-243681.0
+2023,2023-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,3343504.0,2894027.0,-449477.0
+2023,2023-12-01,Bombshells – San Antonio,Sports-bar restaurant,New venues (opened / other),2185928.0,2187767.0,1839.0
+2023,2023-12-01,Bombshells – Spring,Sports-bar restaurant,Same-venue growth,3066594.0,2269084.0,-797510.0
+2023,2023-12-01,Bombshells – Stafford,Sports-bar restaurant,New venues (opened / other),0.0,492069.0,492069.0
+2023,2023-12-01,Bombshells – Tomball,Sports-bar restaurant,Same-venue growth,1748197.0,1683056.0,-65141.0
+2023,2023-12-01,Chicas Locas – Dallas,Latin-themed club,Acquired venues,0.0,2876391.0,2876391.0
+2023,2023-12-01,Chicas Locas – Houston,Latin-themed club,Acquired venues,0.0,3338429.0,3338429.0
+2023,2023-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,1430886.0,1155245.0,-275641.0
+2023,2023-12-01,PT's Showclub – Odessa,Gentlemen's club,Acquired venues,234510.0,984939.0,750429.0
+2023,2023-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1598484.0,1271483.0,-327001.0
+2023,2023-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1694587.0,1679088.0,-15499.0
+2023,2023-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1836524.0,1692499.0,-144025.0
+2023,2023-12-01,Rick's Cabaret – San Antonio,Gentlemen's club,Closed venues,347064.0,0.0,-347064.0
+2023,2023-12-01,Scarlett's Cabaret – San Antonio,Gentlemen's club,New venues (opened / other),243133.0,1389245.0,1146112.0
+2023,2023-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1360676.0,1320690.0,-39986.0
+2023,2023-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1761483.0,1636429.0,-125054.0
+2023,2023-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1281239.0,1727089.0,445850.0
+2023,2023-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,1150374.0,1179155.0,28781.0
+2024,2024-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1674726.0,1714450.0,39724.0
+2024,2024-12-01,Baby Dolls Saloon – Tye,Gentlemen's club,New venues (opened / other),0.0,506879.0,506879.0
+2024,2024-12-01,Baby Dolls – Dallas,Gentlemen's club,Acquired venues,7980210.0,10144706.0,2164496.0
+2024,2024-12-01,Baby Dolls – Euless (Hwy 157),Gentlemen's club,Closed venues,998678.0,1075847.0,77169.0
+2024,2024-12-01,Bombshells – Arlington,Sports-bar restaurant,Same-venue growth,2056678.0,1958954.0,-97724.0
+2024,2024-12-01,Bombshells – Austin,Sports-bar restaurant,Same-venue growth,1642353.0,1349514.0,-292839.0
+2024,2024-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,2270820.0,1992715.0,-278105.0
+2024,2024-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,2542792.0,2081326.0,-461466.0
+2024,2024-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Closed venues,2909719.0,1717256.0,-1192463.0
+2024,2024-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,2566778.0,1991550.0,-575228.0
+2024,2024-12-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,Same-venue growth,2928584.0,2278186.0,-650398.0
+2024,2024-12-01,Bombshells – Katy,Sports-bar restaurant,Same-venue growth,3060102.0,2542249.0,-517853.0
+2024,2024-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,2894027.0,2405666.0,-488361.0
+2024,2024-12-01,Bombshells – San Antonio,Sports-bar restaurant,Same-venue growth,2187767.0,1591239.0,-596528.0
+2024,2024-12-01,Bombshells – Spring,Sports-bar restaurant,Closed venues,2269084.0,1437953.0,-831131.0
+2024,2024-12-01,Bombshells – Stafford,Sports-bar restaurant,New venues (opened / other),492069.0,2289816.0,1797747.0
+2024,2024-12-01,Bombshells – Tomball,Sports-bar restaurant,Same-venue growth,1683056.0,1541046.0,-142010.0
+2024,2024-12-01,Chicas Locas – Arlington,Latin-themed club,Acquired venues,0.0,1649602.0,1649602.0
+2024,2024-12-01,Chicas Locas – Dallas,Latin-themed club,Acquired venues,2876391.0,3478697.0,602306.0
+2024,2024-12-01,Chicas Locas – Houston,Latin-themed club,Acquired venues,3338429.0,4117108.0,778679.0
+2024,2024-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,1155245.0,1109777.0,-45468.0
+2024,2024-12-01,Jaguar's – Harlingen,Gentlemen's club,New venues (opened / other),0.0,152194.0,152194.0
+2024,2024-12-01,PT's Showclub – Odessa,Gentlemen's club,Same-venue growth,984939.0,948272.0,-36667.0
+2024,2024-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1271483.0,1658708.0,387225.0
+2024,2024-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1679088.0,1728311.0,49223.0
+2024,2024-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1692499.0,1528689.0,-163810.0
+2024,2024-12-01,Scarlett's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1389245.0,1556098.0,166853.0
+2024,2024-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1320690.0,1344614.0,23924.0
+2024,2024-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1636429.0,1688989.0,52560.0
+2024,2024-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1727089.0,1885358.0,158269.0
+2024,2024-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,1179155.0,1160172.0,-18983.0
+2024,2024-12-01,XTC – Dallas,Gentlemen's club,New venues (opened / other),0.0,935482.0,935482.0
+2025,2025-12-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1714450.0,1668706.0,-45744.0
+2025,2025-12-01,Baby Dolls Saloon – Tye,Gentlemen's club,New venues (opened / other),506879.0,864023.0,357144.0
+2025,2025-12-01,Baby Dolls – Dallas,Gentlemen's club,Same-venue growth,10144706.0,9605743.0,-538963.0
+2025,2025-12-01,Baby Dolls – Euless (Hwy 157),Gentlemen's club,Closed venues,1075847.0,0.0,-1075847.0
+2025,2025-12-01,Bombshells – Arlington,Sports-bar restaurant,Same-venue growth,1958954.0,1864098.0,-94856.0
+2025,2025-12-01,Bombshells – Austin,Sports-bar restaurant,Closed venues,1349514.0,940012.0,-409502.0
+2025,2025-12-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,1992715.0,1693302.0,-299413.0
+2025,2025-12-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,2081326.0,1578861.0,-502465.0
+2025,2025-12-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Closed venues,1717256.0,0.0,-1717256.0
+2025,2025-12-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,1991550.0,1516568.0,-474982.0
+2025,2025-12-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,Same-venue growth,2278186.0,1715390.0,-562796.0
+2025,2025-12-01,Bombshells – Katy,Sports-bar restaurant,Same-venue growth,2542249.0,1758467.0,-783782.0
+2025,2025-12-01,Bombshells – Lubbock,Sports-bar restaurant,New venues (opened / other),0.0,1422699.0,1422699.0
+2025,2025-12-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,2405666.0,2081736.0,-323930.0
+2025,2025-12-01,Bombshells – San Antonio,Sports-bar restaurant,Same-venue growth,1591239.0,1239558.0,-351681.0
+2025,2025-12-01,Bombshells – Spring,Sports-bar restaurant,Closed venues,1437953.0,0.0,-1437953.0
+2025,2025-12-01,Bombshells – Stafford,Sports-bar restaurant,Same-venue growth,2289816.0,1650132.0,-639684.0
+2025,2025-12-01,Bombshells – Tomball,Sports-bar restaurant,Same-venue growth,1541046.0,1298680.0,-242366.0
+2025,2025-12-01,Chicas Locas – Arlington,Latin-themed club,Acquired venues,1649602.0,1466786.0,-182816.0
+2025,2025-12-01,Chicas Locas – Dallas,Latin-themed club,Same-venue growth,3478697.0,2529323.0,-949374.0
+2025,2025-12-01,Chicas Locas – El Paso,Latin-themed club,Closed venues,0.0,107458.0,107458.0
+2025,2025-12-01,Chicas Locas – Houston,Latin-themed club,Same-venue growth,4117108.0,3626468.0,-490640.0
+2025,2025-12-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,1109777.0,848417.0,-261360.0
+2025,2025-12-01,Jaguar's – Harlingen,Gentlemen's club,New venues (opened / other),152194.0,247367.0,95173.0
+2025,2025-12-01,PT's Showclub – Odessa,Gentlemen's club,Same-venue growth,948272.0,737363.0,-210909.0
+2025,2025-12-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1658708.0,1422807.0,-235901.0
+2025,2025-12-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1728311.0,1686901.0,-41410.0
+2025,2025-12-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1528689.0,1486630.0,-42059.0
+2025,2025-12-01,Scarlett's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1556098.0,1511525.0,-44573.0
+2025,2025-12-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1344614.0,1031623.0,-312991.0
+2025,2025-12-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1688989.0,1313170.0,-375819.0
+2025,2025-12-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1885358.0,1924174.0,38816.0
+2025,2025-12-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,1160172.0,1015412.0,-144760.0
+2025,2025-12-01,XTC – Dallas,Gentlemen's club,Closed venues,935482.0,819714.0,-115768.0
+TTM Aug 2026,2026-08-01,Baby Dolls Fort Worth – Euless,Gentlemen's club,Same-venue growth,1803000.0,1526055.0,-276945.0
+TTM Aug 2026,2026-08-01,Baby Dolls Saloon – Tye,Gentlemen's club,Same-venue growth,746929.0,837115.0,90186.0
+TTM Aug 2026,2026-08-01,Baby Dolls – Dallas,Gentlemen's club,Same-venue growth,9820848.0,9162297.0,-658551.0
+TTM Aug 2026,2026-08-01,Bombshells – Arlington,Sports-bar restaurant,Same-venue growth,1890114.0,2223194.0,333080.0
+TTM Aug 2026,2026-08-01,Bombshells – Austin,Sports-bar restaurant,Closed venues,1121092.0,251584.0,-869508.0
+TTM Aug 2026,2026-08-01,Bombshells – Dallas,Sports-bar restaurant,Same-venue growth,1799191.0,1751152.0,-48039.0
+TTM Aug 2026,2026-08-01,Bombshells – Houston (East Fwy),Sports-bar restaurant,Same-venue growth,1795811.0,1582589.0,-213222.0
+TTM Aug 2026,2026-08-01,Bombshells – Houston (Gulf Fwy),Sports-bar restaurant,Closed venues,353610.0,0.0,-353610.0
+TTM Aug 2026,2026-08-01,Bombshells – Houston (Northwest Fwy),Sports-bar restaurant,Same-venue growth,1695294.0,1540407.0,-154887.0
+TTM Aug 2026,2026-08-01,Bombshells – Houston (Southwest Fwy),Sports-bar restaurant,Same-venue growth,1846062.0,2020627.0,174565.0
+TTM Aug 2026,2026-08-01,Bombshells – Katy,Sports-bar restaurant,Same-venue growth,2073802.0,1605156.0,-468646.0
+TTM Aug 2026,2026-08-01,Bombshells – Lubbock,Sports-bar restaurant,New venues (opened / other),615276.0,2217524.0,1602248.0
+TTM Aug 2026,2026-08-01,Bombshells – Pearland (South Fwy),Sports-bar restaurant,Same-venue growth,2248856.0,2126110.0,-122746.0
+TTM Aug 2026,2026-08-01,Bombshells – Rowlett,Sports-bar restaurant,New venues (opened / other),0.0,1104983.0,1104983.0
+TTM Aug 2026,2026-08-01,Bombshells – San Antonio,Sports-bar restaurant,Same-venue growth,1401697.0,1066785.0,-334912.0
+TTM Aug 2026,2026-08-01,Bombshells – Spring,Sports-bar restaurant,Closed venues,273453.0,0.0,-273453.0
+TTM Aug 2026,2026-08-01,Bombshells – Stafford,Sports-bar restaurant,Same-venue growth,1788527.0,1701131.0,-87396.0
+TTM Aug 2026,2026-08-01,Bombshells – Tomball,Sports-bar restaurant,Same-venue growth,1431353.0,1354904.0,-76449.0
+TTM Aug 2026,2026-08-01,Chicas Locas – Arlington,Latin-themed club,Same-venue growth,1735269.0,1425392.0,-309877.0
+TTM Aug 2026,2026-08-01,Chicas Locas – Dallas,Latin-themed club,Same-venue growth,2835330.0,2116906.0,-718424.0
+TTM Aug 2026,2026-08-01,Chicas Locas – El Paso,Latin-themed club,Closed venues,72092.0,35366.0,-36726.0
+TTM Aug 2026,2026-08-01,Chicas Locas – Houston,Latin-themed club,Same-venue growth,3931704.0,3512135.0,-419569.0
+TTM Aug 2026,2026-08-01,Club Onyx – Houston,Gentlemen's club,Same-venue growth,944235.0,859760.0,-84475.0
+TTM Aug 2026,2026-08-01,Jaguar's – Harlingen,Gentlemen's club,Same-venue growth,270612.0,541788.0,271176.0
+TTM Aug 2026,2026-08-01,PT's Showclub – Odessa,Gentlemen's club,Same-venue growth,867666.0,786099.0,-81567.0
+TTM Aug 2026,2026-08-01,Rick's Cabaret – Fort Worth (Airport Fwy),Gentlemen's club,Same-venue growth,1438862.0,1346529.0,-92333.0
+TTM Aug 2026,2026-08-01,Rick's Cabaret – Fort Worth (Calmont Ave),Gentlemen's club,Same-venue growth,1699631.0,1675050.0,-24581.0
+TTM Aug 2026,2026-08-01,Rick's Cabaret – Odessa,Gentlemen's club,Same-venue growth,1543447.0,1300053.0,-243394.0
+TTM Aug 2026,2026-08-01,Scarlett's Cabaret – San Antonio,Gentlemen's club,Same-venue growth,1450297.0,1583336.0,133039.0
+TTM Aug 2026,2026-08-01,Scarlett's Rose – Round Rock,Gentlemen's club,Same-venue growth,1178049.0,912080.0,-265969.0
+TTM Aug 2026,2026-08-01,Silver City – Dallas,Gentlemen's club,Same-venue growth,1458870.0,1169891.0,-288979.0
+TTM Aug 2026,2026-08-01,Studio 80 – Fort Worth,Other bar / nightclub,Same-venue growth,1922508.0,1861959.0,-60549.0
+TTM Aug 2026,2026-08-01,Temptations – Beaumont,Gentlemen's club,Same-venue growth,1094089.0,889780.0,-204309.0
+TTM Aug 2026,2026-08-01,XTC – Dallas,Gentlemen's club,Closed venues,1283171.0,12197.0,-1270974.0

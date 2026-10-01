@@ -1,0 +1,51 @@
+venue_name,brand,venue_type,type_confidence,type_note,city,first_trading_month,rci_first_month,rci_last_month,has_pre_rci_filings,entry_route,status,closed_month
+Austin's Theatre – Austin,Austin's Theatre,Gentlemen's club,inferred,Filed by Playmates Gentleman's Club LLC,Austin,2007-01-01,2007-01-01,2014-11-01,False,Legacy (owned before 2007),Closed,2014-11-01
+Baby Dolls Saloon – Tye,Baby Dolls Saloon,Gentlemen's club,verified,RCI adult nightclub brand,Tye,2024-04-01,2024-04-01,2026-08-01,False,Added (route not confirmed),Active,
+Baby Dolls – Dallas,Baby Dolls,Gentlemen's club,verified,RCI adult nightclub brand,Dallas,2007-01-01,2023-03-01,2026-08-01,True,Acquired,Active,
+Baby Dolls Fort Worth – Euless,Baby Dolls,Gentlemen's club,verified,RCI adult nightclub brand,Euless,2010-12-01,2010-12-01,2026-08-01,False,Added (route not confirmed),Active,
+Baby Dolls – Euless (Hwy 157),Baby Dolls,Gentlemen's club,verified,Acquired Mar 2023; closed after a fire (RCI website),Euless,2007-01-01,2023-06-01,2024-07-01,True,Acquired,Closed,2024-07-01
+Cabaret North – Fort Worth,Cabaret North,Gentlemen's club,verified,RCI adult nightclub brand,Fort Worth,2008-05-01,2008-05-01,2016-09-01,False,Added (route not confirmed),Closed,2016-09-01
+Club Onyx – Dallas,Club Onyx,Gentlemen's club,verified,RCI adult nightclub brand,Dallas,2016-04-01,2016-04-01,2018-01-01,False,Added (route not confirmed),Closed,2018-01-01
+Club Onyx – Houston,Club Onyx,Gentlemen's club,verified,RCI adult nightclub brand,Houston,2007-01-01,2007-01-01,2026-08-01,False,Legacy (owned before 2007),Active,
+Foxy's Cabaret – Austin,Foxy's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,Austin,2013-10-01,2013-10-01,2016-01-01,False,Added (route not confirmed),Closed,2016-01-01
+Foxy's Cabaret – Dallas,Foxy's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,Dallas,2008-12-01,2008-12-01,2016-12-01,False,Added (route not confirmed),Closed,2016-12-01
+Jaguar's – Harlingen,Jaguar's,Gentlemen's club,verified,RCI adult nightclub brand,Harlingen,2024-06-01,2024-06-01,2026-08-01,False,Added (route not confirmed),Active,
+PT's Showclub – Odessa,PT's Showclub,Gentlemen's club,verified,RCI adult nightclub brand,Odessa,2021-09-01,2022-08-01,2026-08-01,True,Acquired,Active,
+Rick's Cabaret – Fort Worth (Airport Fwy),Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,Fort Worth,2012-02-01,2012-02-01,2026-08-01,False,Added (route not confirmed),Active,
+Rick's Cabaret – Fort Worth (Calmont Ave),Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,Fort Worth,2007-01-01,2007-01-01,2026-08-01,False,Legacy (owned before 2007),Active,
+Rick's Cabaret – Lubbock,Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,Lubbock,2012-08-01,2012-08-01,2014-03-01,False,Added (route not confirmed),Closed,2014-03-01
+Rick's Cabaret – Odessa,Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,Odessa,2014-09-01,2014-09-01,2026-08-01,False,Added (route not confirmed),Active,
+Rick's Cabaret – San Antonio,Rick's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,San Antonio,2007-01-01,2007-01-01,2022-05-01,False,Legacy (owned before 2007),Closed,2022-05-01
+Rick's North – Houston,Rick's North,Gentlemen's club,verified,RCI adult nightclub brand,Houston,2007-01-01,2007-01-01,2013-06-01,False,Legacy (owned before 2007),Closed,2013-06-01
+Scarlett's Cabaret – San Antonio,Scarlett's Cabaret,Gentlemen's club,verified,RCI adult nightclub brand,San Antonio,2022-08-01,2022-08-01,2026-08-01,False,Added (route not confirmed),Active,
+Scarlett's Rose – Round Rock,Scarlett's Rose,Gentlemen's club,verified,RCI adult nightclub brand,Round Rock,2009-12-01,2009-12-01,2026-08-01,True,Acquired,Active,
+Silver City – Dallas,Silver City,Gentlemen's club,verified,"RCI adult nightclub brand; same building, suite changed 2011",Dallas,2007-01-01,2007-01-01,2026-08-01,False,Legacy (owned before 2007),Active,
+Temptations – Beaumont,Temptations,Gentlemen's club,verified,RCI adult nightclub brand,Beaumont,2013-09-01,2013-09-01,2026-08-01,False,Added (route not confirmed),Active,
+XTC – Dallas,XTC,Gentlemen's club,verified,RCI adult nightclub brand,Dallas,2007-01-01,2007-01-01,2025-09-01,False,Legacy (owned before 2007),Closed,2025-09-01
+Chicas Locas – Arlington,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand,Arlington,2007-01-01,2024-03-01,2026-08-01,True,Acquired,Active,
+Chicas Locas – Dallas,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand,Dallas,2007-01-01,2023-03-01,2026-08-01,True,Acquired,Active,
+Chicas Locas – El Paso,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand,El Paso,2025-06-01,2025-06-01,2025-10-01,False,Added (route not confirmed),Closed,2025-10-01
+Chicas Locas – Houston,Chicas Locas,Latin-themed club,verified,Latin-themed adult club brand,Houston,2007-01-01,2023-03-01,2026-08-01,True,Acquired,Active,
+Divas Latinas – Houston,Divas Latinas,Latin-themed club,inferred,Name suggests Latin-themed club,Houston,2007-01-01,2007-01-01,2009-09-01,False,Legacy (owned before 2007),Closed,2009-09-01
+Longhorn Saloon – Edinburg,Longhorn Saloon,Other bar / nightclub,inferred,Not on RCI's current brand list,Edinburg,2007-01-01,2007-01-01,2010-03-01,False,Legacy (owned before 2007),Closed,2010-03-01
+Studio 80 – Fort Worth,Studio 80,Other bar / nightclub,inferred,Believed to be a dance nightclub; not on RCI's current brand list,Fort Worth,2013-01-01,2013-01-01,2026-08-01,False,Added (route not confirmed),Active,
+Studio 80 – Webster,Studio 80,Other bar / nightclub,inferred,Believed to be a dance nightclub; not on RCI's current brand list,Webster,2014-01-01,2014-01-01,2019-07-01,False,Added (route not confirmed),Closed,2019-07-01
+The New West – Aledo,The New West,Other bar / nightclub,inferred,Never traded under RCI (all $0 filings),Aledo,2007-01-01,,,True,Never traded under RCI,Never traded,
+Union Square – Fort Worth,Union Square,Other bar / nightclub,inferred,Not on RCI's current brand list,Fort Worth,2013-07-01,2013-07-01,2015-07-01,False,Added (route not confirmed),Closed,2015-07-01
+Bombshells – Arlington,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Arlington,2021-12-01,2021-12-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Austin,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Austin,2014-06-01,2014-06-01,2025-11-01,False,Opened by RCI,Closed,2025-11-01
+Bombshells – Beaumont,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Beaumont,,,,False,Never traded under RCI,Never traded,
+Bombshells – Dallas,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Dallas,2013-02-01,2013-02-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Houston (Gulf Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Houston,2014-11-01,2014-11-01,2024-11-01,False,Opened by RCI,Closed,2024-11-01
+Bombshells – Houston (East Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Houston,2018-12-01,2018-12-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Pearland (South Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells chain; relocated along South Fwy in 2018,Houston,2018-04-01,2018-04-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Houston (Northwest Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Houston,2017-07-01,2017-07-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Houston (State Highway 249),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Houston,,,,False,Never traded under RCI,Never traded,
+Bombshells – Houston (Southwest Fwy),Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Houston,2020-01-01,2020-01-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Katy,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Katy,2019-10-01,2019-10-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Lubbock,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Lubbock,2025-07-01,2025-07-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Rowlett,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Rowlett,2026-06-01,2026-06-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – San Antonio,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,San Antonio,2022-06-01,2022-06-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Spring,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Spring,2014-09-01,2014-09-01,2024-11-01,False,Opened by RCI,Closed,2024-11-01
+Bombshells – Stafford,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Stafford,2023-11-01,2023-11-01,2026-08-01,False,Opened by RCI,Active,
+Bombshells – Tomball,Bombshells,Sports-bar restaurant,verified,RCI's Bombshells Restaurant & Bar chain,Tomball,2019-03-01,2019-03-01,2026-08-01,False,Opened by RCI,Active,

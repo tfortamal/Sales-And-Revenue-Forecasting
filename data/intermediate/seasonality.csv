@@ -1,0 +1,49 @@
+venue_type,month_num,seasonality_index
+Gentlemen's club,1,0.9988704944373247
+Gentlemen's club,2,1.0180800419398779
+Gentlemen's club,3,1.133940080002048
+Gentlemen's club,4,1.0432282448615504
+Gentlemen's club,5,1.0265668634167087
+Gentlemen's club,6,0.9511359276233314
+Gentlemen's club,7,0.9603201820970588
+Gentlemen's club,8,0.9735479546605168
+Gentlemen's club,9,0.9526462704111335
+Gentlemen's club,10,0.9966612486248532
+Gentlemen's club,11,0.968824844913468
+Gentlemen's club,12,0.9761778470121281
+Latin-themed club,1,1.009732700665834
+Latin-themed club,2,1.1551820867370937
+Latin-themed club,3,1.2187970678397342
+Latin-themed club,4,1.0944344234269479
+Latin-themed club,5,1.1174832478036691
+Latin-themed club,6,0.989761418838249
+Latin-themed club,7,0.9428057534059696
+Latin-themed club,8,0.9727515114511925
+Latin-themed club,9,0.8437981430035334
+Latin-themed club,10,0.905701327291465
+Latin-themed club,11,0.8706129945917412
+Latin-themed club,12,0.8789393249445699
+Other bar / nightclub,1,0.8680950846851947
+Other bar / nightclub,2,1.0929763989921149
+Other bar / nightclub,3,1.126204933634187
+Other bar / nightclub,4,1.0325806689907007
+Other bar / nightclub,5,1.0014802824573503
+Other bar / nightclub,6,0.8865012208518148
+Other bar / nightclub,7,0.9601253422838207
+Other bar / nightclub,8,0.9723537033358673
+Other bar / nightclub,9,0.9199743190409004
+Other bar / nightclub,10,1.0003101232364267
+Other bar / nightclub,11,0.9548836540344932
+Other bar / nightclub,12,1.1845142684571295
+Sports-bar restaurant,1,1.0094184847319874
+Sports-bar restaurant,2,0.949276837575425
+Sports-bar restaurant,3,1.1335403817943839
+Sports-bar restaurant,4,1.0830931354466933
+Sports-bar restaurant,5,1.0945229723584775
+Sports-bar restaurant,6,0.9728922309553387
+Sports-bar restaurant,7,0.9299663400144668
+Sports-bar restaurant,8,0.9485474256399093
+Sports-bar restaurant,9,1.0167927142344624
+Sports-bar restaurant,10,1.033369750230894
+Sports-bar restaurant,11,0.9251315144294956
+Sports-bar restaurant,12,0.9034482125884654

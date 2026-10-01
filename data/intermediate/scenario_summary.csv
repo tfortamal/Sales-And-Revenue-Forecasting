@@ -1,0 +1,7 @@
+scenario,forecast_year,revenue_forecast_year,new_venue_revenue,assumptions,vs_current_year_estimate_pct,estimate_current_year
+Bear,2027,49127393.42800079,0.0,same-venue -5% vs forecast; closes PT's Showclub – Odessa & Club Onyx – Houston from July,-0.07858748152578254,53317479.89418645
+Base,2027,52387940.09555916,0.0,same-venue sales as forecast,-0.01743405353126315,53317479.89418645
+Bull,2027,53959578.29842595,0.0,same-venue +3% vs forecast,0.012042924862799342,53317479.89418645
+Base + acquire 2 gentlemen's clubs,2027,54727722.09555917,2339782.0,same-venue sales as forecast; adds 2 gentlemen's clubs (acquired) in January,0.026449903562049126,53317479.89418645
+Base + acquire 2 Latin-themed clubs,2027,56621752.09555915,4233811.999999999,same-venue sales as forecast; adds 2 Latin-themed clubs (acquired) in January,0.06197352552915736,53317479.89418645
+Base + open 2 sports-bar restaurants,2027,57543737.09555917,5155797.000000001,same-venue sales as forecast; adds 2 sports-bar restaurants (opened by RCI) in January,0.0792658844671601,53317479.89418645

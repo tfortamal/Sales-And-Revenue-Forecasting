@@ -1,0 +1,17 @@
+File,Section,Question It Answers,Row Count
+p1_group_trend_and_forecast.csv,1 Group overview,"How has monthly drink revenue moved since 2007, and where is it heading to Dec 2027?",287
+p1_group_yearly_totals.csv,1 Group overview,"What did the group sell each year, and how much of 2026-2027 is forecast?",22
+p1_revenue_by_type_yearly.csv,1 Group overview,Which venue types make up each year's revenue?,118
+p1_growth_bridge_waterfall.csv,1 Group overview,"What changed revenue between two periods: same-venue sales, new venues, acquisitions or closures?",269
+p1_kpis.csv,1 Group overview,What are the headline numbers?,16
+p2_venue_scorecard.csv,2 Venue performance,"How is every venue doing: revenue, growth, trend, rank, next-year forecast?",47
+p2_venue_growth_active.csv,2 Venue performance,Which active venues are growing and which are declining (last 12 months vs the 12 before)?,27
+p2_seasonality_by_type.csv,2 Venue performance,Which months are busy or quiet for each venue type?,48
+p2_drinks_mix_by_type.csv,2 Venue performance,"What share of drink sales is liquor, wine and beer for each venue type, by year?",177
+p3_type_growth_sources_since_2019.csv,3 Venue types & acquisitions,"Which venue types grew from 2019 to 2025, and through which route (same-venue, new, acquired, closed)?",12
+p3_type_revenue_by_basis.csv,3 Venue types & acquisitions,"Which venue type earns most per venue, on drink sales and on estimated total revenue?",8
+p3_ramp_curves.csv,3 Venue types & acquisitions,How does a new or acquired venue's revenue develop in its first 30 months?,223
+p3_acquisitions.csv,3 Venue types & acquisitions,"Which venues did RCI acquire, when, and did drink sales rise after the takeover?",7
+p4_scenario_summary.csv,4 Outlook (next year),What could 2027 drink revenue be under bear / base / bull and 'add venues' assumptions?,6
+p4_forecast_next_year_by_type.csv,4 Outlook (next year),How much will each venue type sell in 2027 (base forecast) vs the 2026 estimate?,4
+p4_forecast_accuracy.csv,4 Outlook (next year),How accurate is the forecast model vs the naive 'same month last year' baseline?,5

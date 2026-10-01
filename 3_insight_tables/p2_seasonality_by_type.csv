@@ -1,0 +1,49 @@
+Venue Type,Month Number,Month Name,Seasonality Index,vs Average Month,vs Average Label,Above or Below Average
+Gentlemen's club,1,Jan,0.9989,-0.0011,−0.1%,Below average
+Gentlemen's club,2,Feb,1.0181,0.0181,+1.8%,Above average
+Gentlemen's club,3,Mar,1.1339,0.1339,+13%,Above average
+Gentlemen's club,4,Apr,1.0432,0.0432,+4.3%,Above average
+Gentlemen's club,5,May,1.0266,0.0266,+2.7%,Above average
+Gentlemen's club,6,Jun,0.9511,-0.0489,−4.9%,Below average
+Gentlemen's club,7,Jul,0.9603,-0.0397,−4.0%,Below average
+Gentlemen's club,8,Aug,0.9735,-0.0265,−2.6%,Below average
+Gentlemen's club,9,Sep,0.9526,-0.0474,−4.7%,Below average
+Gentlemen's club,10,Oct,0.9967,-0.0033,−0.3%,Below average
+Gentlemen's club,11,Nov,0.9688,-0.0312,−3.1%,Below average
+Gentlemen's club,12,Dec,0.9762,-0.0238,−2.4%,Below average
+Latin-themed club,1,Jan,1.0097,0.0097,+1.0%,Above average
+Latin-themed club,2,Feb,1.1552,0.1552,+16%,Above average
+Latin-themed club,3,Mar,1.2188,0.2188,+22%,Above average
+Latin-themed club,4,Apr,1.0944,0.0944,+9.4%,Above average
+Latin-themed club,5,May,1.1175,0.1175,+12%,Above average
+Latin-themed club,6,Jun,0.9898,-0.0102,−1.0%,Below average
+Latin-themed club,7,Jul,0.9428,-0.0572,−5.7%,Below average
+Latin-themed club,8,Aug,0.9728,-0.0272,−2.7%,Below average
+Latin-themed club,9,Sep,0.8438,-0.1562,−16%,Below average
+Latin-themed club,10,Oct,0.9057,-0.0943,−9.4%,Below average
+Latin-themed club,11,Nov,0.8706,-0.1294,−13%,Below average
+Latin-themed club,12,Dec,0.8789,-0.1211,−12%,Below average
+Other bar / nightclub,1,Jan,0.8681,-0.1319,−13%,Below average
+Other bar / nightclub,2,Feb,1.0930,0.0930,+9.3%,Above average
+Other bar / nightclub,3,Mar,1.1262,0.1262,+13%,Above average
+Other bar / nightclub,4,Apr,1.0326,0.0326,+3.3%,Above average
+Other bar / nightclub,5,May,1.0015,0.0015,+0.1%,Above average
+Other bar / nightclub,6,Jun,0.8865,-0.1135,−11%,Below average
+Other bar / nightclub,7,Jul,0.9601,-0.0399,−4.0%,Below average
+Other bar / nightclub,8,Aug,0.9724,-0.0276,−2.8%,Below average
+Other bar / nightclub,9,Sep,0.9200,-0.0800,−8.0%,Below average
+Other bar / nightclub,10,Oct,1.0003,0.0003,0.0%,Above average
+Other bar / nightclub,11,Nov,0.9549,-0.0451,−4.5%,Below average
+Other bar / nightclub,12,Dec,1.1845,0.1845,+18%,Above average
+Sports-bar restaurant,1,Jan,1.0094,0.0094,+0.9%,Above average
+Sports-bar restaurant,2,Feb,0.9493,-0.0507,−5.1%,Below average
+Sports-bar restaurant,3,Mar,1.1335,0.1335,+13%,Above average
+Sports-bar restaurant,4,Apr,1.0831,0.0831,+8.3%,Above average
+Sports-bar restaurant,5,May,1.0945,0.0945,+9.5%,Above average
+Sports-bar restaurant,6,Jun,0.9729,-0.0271,−2.7%,Below average
+Sports-bar restaurant,7,Jul,0.9300,-0.0700,−7.0%,Below average
+Sports-bar restaurant,8,Aug,0.9485,-0.0515,−5.1%,Below average
+Sports-bar restaurant,9,Sep,1.0168,0.0168,+1.7%,Above average
+Sports-bar restaurant,10,Oct,1.0334,0.0334,+3.3%,Above average
+Sports-bar restaurant,11,Nov,0.9251,-0.0749,−7.5%,Below average
+Sports-bar restaurant,12,Dec,0.9034,-0.0966,−9.7%,Below average

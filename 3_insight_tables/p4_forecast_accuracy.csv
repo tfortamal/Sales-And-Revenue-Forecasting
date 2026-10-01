@@ -1,0 +1,6 @@
+Sort Order,Model,Selected,Is Baseline,Venue-level Error (WAPE),Group Monthly Error (WAPE),Group 12-month Total Bias,Group 12-month Abs Error,Venue Error Label,Bias Label,Abs Error Label,Model Role
+1,Ensemble (ETS + Prophet + GBM),True,False,0.1481,0.0759,0.0337,0.0467,14.8%,+3.4%,4.7%,Selected
+2,Exponential smoothing,False,False,0.1696,0.0809,0.0430,0.0430,17.0%,+4.3%,4.3%,Other
+3,Gradient boosting (all venues),False,False,0.1747,0.0910,0.0496,0.0779,17.5%,+5.0%,7.8%,Other
+4,Prophet,False,False,0.2015,0.0769,0.0084,0.0412,20.1%,+0.8%,4.1%,Other
+5,Same month last year (baseline),False,True,0.2072,0.1335,0.1149,0.1149,20.7%,+11.5%,11.5%,Baseline

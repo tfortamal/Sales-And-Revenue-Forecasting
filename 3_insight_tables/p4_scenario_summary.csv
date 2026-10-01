@@ -1,0 +1,7 @@
+Scenario,Scenario Group,Sort Order,Forecast Year,Forecast Drink Revenue,From New Venues,Current-Year Estimate,vs Current-Year Estimate %,Assumptions,Direction,Display Label
+Bear,Core,1,2027,49127393.4280,0.0000,53317479.8942,-0.0786,same-venue -5% vs forecast; closes PT's Showclub – Odessa & Club Onyx – Houston from July,Declining,$49.1M (−7.9%)
+Base,Core,2,2027,52387940.0956,0.0000,53317479.8942,-0.0174,same-venue sales as forecast,Stable,$52.4M (−1.7%)
+Bull,Core,3,2027,53959578.2984,0.0000,53317479.8942,0.0120,same-venue +3% vs forecast,Stable,$54.0M (+1.2%)
+Base + acquire 2 gentlemen's clubs,What-if: add venues,4,2027,54727722.0956,2339782.0000,53317479.8942,0.0264,same-venue sales as forecast; adds 2 gentlemen's clubs (acquired) in January,Stable,$54.7M (+2.6%)
+Base + acquire 2 Latin-themed clubs,What-if: add venues,5,2027,56621752.0956,4233812.0000,53317479.8942,0.0620,same-venue sales as forecast; adds 2 Latin-themed clubs (acquired) in January,Growing,$56.6M (+6.2%)
+Base + open 2 sports-bar restaurants,What-if: add venues,6,2027,57543737.0956,5155797.0000,53317479.8942,0.0793,same-venue sales as forecast; adds 2 sports-bar restaurants (opened by RCI) in January,Growing,$57.5M (+7.9%)

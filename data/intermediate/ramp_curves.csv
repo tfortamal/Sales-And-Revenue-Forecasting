@@ -1,0 +1,224 @@
+venue_type,months_since_entry,avg_revenue,median_revenue,venues
+Gentlemen's club,0,0.0,0.0,1
+Gentlemen's club,1,96526.9375,70537.0,16
+Gentlemen's club,2,134044.875,108806.0,16
+Gentlemen's club,3,139827.1875,114546.0,16
+Gentlemen's club,4,139217.8125,126105.5,16
+Gentlemen's club,5,140892.875,121514.5,16
+Gentlemen's club,6,138194.6875,113912.5,16
+Gentlemen's club,7,142212.0,102601.5,16
+Gentlemen's club,8,148462.5,118768.5,16
+Gentlemen's club,9,149157.25,124225.5,16
+Gentlemen's club,10,156721.4375,126676.0,16
+Gentlemen's club,11,155565.9375,135444.5,16
+Gentlemen's club,12,155640.75,133278.5,16
+Gentlemen's club,13,162441.3125,127530.0,16
+Gentlemen's club,14,148548.75,109354.5,16
+Gentlemen's club,15,163521.8,108645.0,15
+Gentlemen's club,16,158586.6,107261.0,15
+Gentlemen's club,17,151949.86666666667,111604.0,15
+Gentlemen's club,18,154312.93333333332,121286.0,15
+Gentlemen's club,19,160646.33333333334,135799.0,15
+Gentlemen's club,20,170691.6,137009.0,15
+Gentlemen's club,21,179075.35714285713,133565.0,14
+Gentlemen's club,22,174834.2857142857,120466.5,14
+Gentlemen's club,23,181380.38461538462,118316.0,13
+Gentlemen's club,24,171422.3076923077,111358.0,13
+Gentlemen's club,25,180696.6923076923,100011.0,13
+Gentlemen's club,26,179694.3076923077,121144.0,13
+Gentlemen's club,27,194926.38461538462,119664.0,13
+Gentlemen's club,28,198969.91666666666,125277.5,12
+Gentlemen's club,29,197684.0,124338.0,11
+Gentlemen's club,30,203589.1,134628.5,10
+Gentlemen's club,31,193763.2,137082.0,10
+Gentlemen's club,32,204121.7,141378.0,10
+Gentlemen's club,33,193961.7,134971.5,10
+Gentlemen's club,34,193039.6,130779.0,10
+Gentlemen's club,35,187102.1,132180.0,10
+Gentlemen's club,36,190270.2,131825.5,10
+Gentlemen's club,37,189177.1,134890.0,10
+Gentlemen's club,38,182458.5,133884.5,10
+Gentlemen's club,39,196844.7,142604.5,10
+Gentlemen's club,40,200931.7,136733.0,10
+Gentlemen's club,41,190131.4,138085.0,10
+Gentlemen's club,42,186740.2,128299.0,10
+Gentlemen's club,43,130174.11111111111,129036.0,9
+Gentlemen's club,44,134919.0,135566.0,9
+Gentlemen's club,45,136910.0,122083.0,9
+Gentlemen's club,46,131634.55555555556,111088.0,9
+Gentlemen's club,47,134728.44444444444,126606.0,9
+Gentlemen's club,48,129531.55555555556,119128.0,9
+Gentlemen's club,49,129617.44444444444,119601.0,9
+Gentlemen's club,50,161890.7142857143,142583.0,7
+Gentlemen's club,51,157893.2857142857,141278.0,7
+Gentlemen's club,52,178099.14285714287,181093.0,7
+Gentlemen's club,53,142279.57142857142,149546.0,7
+Gentlemen's club,54,140731.57142857142,139169.0,7
+Gentlemen's club,55,148657.42857142858,120754.0,7
+Gentlemen's club,56,144026.57142857142,132042.0,7
+Gentlemen's club,57,140061.85714285713,122040.0,7
+Gentlemen's club,58,139513.42857142858,119616.0,7
+Gentlemen's club,59,149655.42857142858,138368.0,7
+Gentlemen's club,60,135094.2857142857,117944.0,7
+Latin-themed club,1,178280.0,198592.5,4
+Latin-themed club,2,207315.75,214048.0,4
+Latin-themed club,3,196551.25,211203.0,4
+Latin-themed club,4,193356.25,212266.5,4
+Latin-themed club,5,191832.5,217627.0,4
+Latin-themed club,6,261007.33333333334,294182.0,3
+Latin-themed club,7,269034.0,315706.0,3
+Latin-themed club,8,269184.3333333333,309224.0,3
+Latin-themed club,9,278116.3333333333,288030.0,3
+Latin-themed club,10,290170.3333333333,335630.0,3
+Latin-themed club,11,250507.66666666666,305477.0,3
+Latin-themed club,12,247121.66666666666,300730.0,3
+Latin-themed club,13,278660.0,334632.0,3
+Latin-themed club,14,258632.66666666666,302342.0,3
+Latin-themed club,15,273542.6666666667,333088.0,3
+Latin-themed club,16,256697.66666666666,300554.0,3
+Latin-themed club,17,234966.66666666666,273732.0,3
+Latin-themed club,18,263706.3333333333,285028.0,3
+Latin-themed club,19,240300.66666666666,247503.0,3
+Latin-themed club,20,244420.33333333334,261237.0,3
+Latin-themed club,21,243240.0,277618.0,3
+Latin-themed club,22,229067.33333333334,243806.0,3
+Latin-themed club,23,203453.66666666666,203369.0,3
+Latin-themed club,24,207521.66666666666,210421.0,3
+Latin-themed club,25,236698.66666666666,235150.0,3
+Latin-themed club,26,218984.0,215560.0,3
+Latin-themed club,27,249679.66666666666,281762.0,3
+Latin-themed club,28,214538.66666666666,226309.0,3
+Latin-themed club,29,225562.33333333334,218349.0,3
+Latin-themed club,30,217341.66666666666,214246.0,3
+Latin-themed club,31,237241.5,237241.5,2
+Latin-themed club,32,235693.5,235693.5,2
+Latin-themed club,33,220398.0,220398.0,2
+Latin-themed club,34,229484.0,229484.0,2
+Latin-themed club,35,215706.0,215706.0,2
+Latin-themed club,36,191886.5,191886.5,2
+Latin-themed club,37,242167.0,242167.0,2
+Latin-themed club,38,263272.5,263272.5,2
+Latin-themed club,39,270503.0,270503.0,2
+Latin-themed club,40,241297.0,241297.0,2
+Latin-themed club,41,236999.5,236999.5,2
+Latin-themed club,42,229872.0,229872.0,2
+Other bar / nightclub,1,37039.333333333336,35071.0,3
+Other bar / nightclub,2,153531.66666666666,147590.0,3
+Other bar / nightclub,3,135705.0,143837.0,3
+Other bar / nightclub,4,106228.33333333333,119153.0,3
+Other bar / nightclub,5,110711.0,111066.0,3
+Other bar / nightclub,6,83930.33333333333,88679.0,3
+Other bar / nightclub,7,75735.66666666667,80747.0,3
+Other bar / nightclub,8,76837.33333333333,74174.0,3
+Other bar / nightclub,9,73392.33333333333,64293.0,3
+Other bar / nightclub,10,83442.33333333333,86177.0,3
+Other bar / nightclub,11,81186.33333333333,83728.0,3
+Other bar / nightclub,12,87857.0,103762.0,3
+Other bar / nightclub,13,82503.33333333333,83853.0,3
+Other bar / nightclub,14,81728.0,87641.0,3
+Other bar / nightclub,15,101486.66666666667,105218.0,3
+Other bar / nightclub,16,90545.33333333333,92246.0,3
+Other bar / nightclub,17,100387.33333333333,102563.0,3
+Other bar / nightclub,18,90612.33333333333,81832.0,3
+Other bar / nightclub,19,101819.33333333333,90326.0,3
+Other bar / nightclub,20,120855.66666666667,90823.0,3
+Other bar / nightclub,21,100270.0,83881.0,3
+Other bar / nightclub,22,96602.0,92557.0,3
+Other bar / nightclub,23,95265.33333333333,96209.0,3
+Other bar / nightclub,24,102201.33333333333,84728.0,3
+Other bar / nightclub,25,72533.33333333333,68482.0,3
+Other bar / nightclub,26,96897.0,96897.0,2
+Other bar / nightclub,27,126120.0,126120.0,2
+Other bar / nightclub,28,88473.0,88473.0,2
+Other bar / nightclub,29,97866.0,97866.0,2
+Other bar / nightclub,30,69320.0,69320.0,2
+Other bar / nightclub,31,77558.5,77558.5,2
+Other bar / nightclub,32,82057.0,82057.0,2
+Other bar / nightclub,33,85047.0,85047.0,2
+Other bar / nightclub,34,54201.5,54201.5,2
+Other bar / nightclub,35,48949.5,48949.5,2
+Other bar / nightclub,36,55647.0,55647.0,2
+Other bar / nightclub,37,52972.0,52972.0,2
+Other bar / nightclub,38,52018.0,52018.0,2
+Other bar / nightclub,39,41587.5,41587.5,2
+Other bar / nightclub,40,59607.0,59607.0,2
+Other bar / nightclub,41,72661.0,72661.0,2
+Other bar / nightclub,42,76533.5,76533.5,2
+Other bar / nightclub,43,86010.0,86010.0,2
+Other bar / nightclub,44,62520.0,62520.0,2
+Other bar / nightclub,45,51839.0,51839.0,2
+Other bar / nightclub,46,91793.0,91793.0,2
+Other bar / nightclub,47,102672.5,102672.5,2
+Other bar / nightclub,48,138565.5,138565.5,2
+Other bar / nightclub,49,116050.5,116050.5,2
+Other bar / nightclub,50,127061.0,127061.0,2
+Other bar / nightclub,51,115248.5,115248.5,2
+Other bar / nightclub,52,101313.0,101313.0,2
+Other bar / nightclub,53,77147.5,77147.5,2
+Other bar / nightclub,54,99422.5,99422.5,2
+Other bar / nightclub,55,97088.0,97088.0,2
+Other bar / nightclub,56,87317.0,87317.0,2
+Other bar / nightclub,57,109665.0,109665.0,2
+Other bar / nightclub,58,92380.5,92380.5,2
+Other bar / nightclub,59,89363.0,89363.0,2
+Other bar / nightclub,60,117025.5,117025.5,2
+Sports-bar restaurant,1,186819.73333333334,180335.0,15
+Sports-bar restaurant,2,304362.26666666666,326289.0,15
+Sports-bar restaurant,3,240429.86666666667,243539.0,15
+Sports-bar restaurant,4,220805.85714285713,200950.0,14
+Sports-bar restaurant,5,239982.2142857143,235191.5,14
+Sports-bar restaurant,6,218946.64285714287,207724.0,14
+Sports-bar restaurant,7,206713.2142857143,200754.0,14
+Sports-bar restaurant,8,224489.7857142857,204418.5,14
+Sports-bar restaurant,9,214910.0,190632.5,14
+Sports-bar restaurant,10,220525.7857142857,199788.0,14
+Sports-bar restaurant,11,217464.92857142858,197027.0,14
+Sports-bar restaurant,12,201969.85714285713,164041.5,14
+Sports-bar restaurant,13,193346.2142857143,186984.0,14
+Sports-bar restaurant,14,180794.7142857143,186610.0,14
+Sports-bar restaurant,15,198544.0,173036.0,13
+Sports-bar restaurant,16,195847.46153846153,179651.0,13
+Sports-bar restaurant,17,189377.3076923077,150188.0,13
+Sports-bar restaurant,18,215828.0,167147.0,13
+Sports-bar restaurant,19,214419.3076923077,167220.0,13
+Sports-bar restaurant,20,205359.46153846153,158818.0,13
+Sports-bar restaurant,21,208226.15384615384,161018.0,13
+Sports-bar restaurant,22,205506.38461538462,167732.0,13
+Sports-bar restaurant,23,201630.07692307694,158622.0,13
+Sports-bar restaurant,24,185913.07692307694,163022.0,13
+Sports-bar restaurant,25,182278.84615384616,176440.0,13
+Sports-bar restaurant,26,197491.92307692306,161236.0,13
+Sports-bar restaurant,27,189092.38461538462,169746.0,13
+Sports-bar restaurant,28,214271.92307692306,180651.0,13
+Sports-bar restaurant,29,218606.23076923078,180977.0,13
+Sports-bar restaurant,30,216014.53846153847,175230.0,13
+Sports-bar restaurant,31,214873.61538461538,178091.0,13
+Sports-bar restaurant,32,205539.84615384616,190024.0,13
+Sports-bar restaurant,33,193876.3076923077,184583.0,13
+Sports-bar restaurant,34,188708.23076923078,187724.0,13
+Sports-bar restaurant,35,212894.75,196479.5,12
+Sports-bar restaurant,36,224377.08333333334,238364.0,12
+Sports-bar restaurant,37,230042.91666666666,250121.0,12
+Sports-bar restaurant,38,226378.33333333334,248419.5,12
+Sports-bar restaurant,39,224163.33333333334,261039.0,12
+Sports-bar restaurant,40,224760.08333333334,261334.5,12
+Sports-bar restaurant,41,216368.91666666666,233356.5,12
+Sports-bar restaurant,42,216913.16666666666,243929.5,12
+Sports-bar restaurant,43,227411.83333333334,254368.5,12
+Sports-bar restaurant,44,191019.83333333334,197319.0,12
+Sports-bar restaurant,45,202774.91666666666,231373.5,12
+Sports-bar restaurant,46,206684.91666666666,214092.5,12
+Sports-bar restaurant,47,197756.66666666666,183697.0,12
+Sports-bar restaurant,48,204715.58333333334,190980.0,12
+Sports-bar restaurant,49,206226.25,203449.5,12
+Sports-bar restaurant,50,201942.5,197124.0,12
+Sports-bar restaurant,51,194147.5,196918.5,12
+Sports-bar restaurant,52,211922.63636363635,194418.0,11
+Sports-bar restaurant,53,209823.63636363635,208041.0,11
+Sports-bar restaurant,54,217233.27272727274,220890.0,11
+Sports-bar restaurant,55,225662.9090909091,223616.0,11
+Sports-bar restaurant,56,221760.54545454544,219088.0,11
+Sports-bar restaurant,57,217424.9090909091,215148.0,11
+Sports-bar restaurant,58,217599.3,221125.0,10
+Sports-bar restaurant,59,203446.7,206017.0,10
+Sports-bar restaurant,60,210693.0,217017.5,10

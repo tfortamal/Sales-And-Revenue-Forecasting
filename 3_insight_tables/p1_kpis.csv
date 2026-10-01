@@ -1,0 +1,17 @@
+Sort Order,KPI,Period,Value,Display Text,Subtitle,Direction
+1,"Drink revenue, last 12 months",Sep 2025–Aug 2026,52099934.0000,$52.1M,−7.7% vs prior 12 months ($56.4M),Declining
+2,Growth vs prior 12 months,Sep 2025–Aug 2026,-0.0767,−7.7%,$52.1M vs $56.4M,Declining
+3,Same-venue growth,Sep 2025–Aug 2026,-0.0803,−8.0%,venues open throughout both 12-month periods,Declining
+4,Active venues,Aug 2026,29.0000,29,trading in the last 3 months,
+5,Venues down more than 5%,Sep 2025–Aug 2026,18.0000,18 of 27,"active venues with 2 years of history, down more than 5% on a year ago",Declining
+6,Venues below last year,Sep 2025–Aug 2026,22.0000,22 of 27,active venues with 2 years of history selling less than a year ago,Declining
+7,Avg monthly drink revenue per venue,Sep 2025–Aug 2026,151894.8513,$152K,"last 12 months, trading venue-months",
+8,Current-year estimate,2026,53317479.8942,$53.3M,2026: actual Jan–Aug + forecast Sep–Dec,
+9,Next-year forecast (base),2027,52387940.0956,$52.4M,2027: 80% range $48.3M–$56.5M; −1.7% vs 2026 estimate,Stable
+10,Next-year forecast low (80%),2027,48251249.2362,$48.3M,"2027: 80% range, low end",
+11,Next-year forecast high (80%),2027,56524630.9549,$56.5M,"2027: 80% range, high end",
+12,Forecast error (venue WAPE),back-tests from Aug 2023–Aug 2025,0.1481,14.8%,Ensemble (ETS + Prophet + GBM); baseline 20.7%,
+13,Baseline error (venue WAPE),back-tests from Aug 2023–Aug 2025,0.2072,20.7%,same month last year,
+14,Avg 12-month group error,back-tests from Aug 2023–Aug 2025,0.0467,4.7%,Ensemble (ETS + Prophet + GBM): mean |12-month group total error| over the back-tests,
+15,Forecast model,back-tests from Aug 2023–Aug 2025,,Ensemble (ETS + Prophet + GBM),lowest back-tested venue-level error,
+16,Data through,Aug 2026,,Aug 2026,latest month of filings,

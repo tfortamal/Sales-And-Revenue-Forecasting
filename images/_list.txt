@@ -1,0 +1,9 @@
+01_group_revenue_trend_and_forecast.png — Monthly group drink revenue 2015 to Aug 2026 with the forecast to Dec 2027: last 12 months $52.1M (−7.7%), 2027 base forecast $52.4M (80% range $48.3M–$56.5M).
+02_growth_sources_since_2019.png — Waterfall from $35.2M (2019) to $52.7M (2025): acquisitions +$21.2M, new venues +$19.0M, same-venue −$14.7M, closures −$8.0M.
+03_last_12_months_bridge.png — Waterfall of the last 12 months vs the 12 before ($56.4M to $52.1M): same-venue −$4.2M, new venues +$2.7M, closures −$2.8M.
+04_change_by_venue_type_since_2019.png — Change 2019 to 2025 by venue type and source: gentlemen's clubs +$11.7M, Latin clubs +$7.7M, sports bars −$1.7M despite new openings.
+07_revenue_per_venue_by_type.png — Average monthly revenue per venue by type, drink sales vs estimated total revenue: on the estimate a Latin-themed club earns the most ($431K a month).
+08_venue_growth_last_12_months.png — Diverging bars of each active venue's change vs a year ago: 18 of 27 venues down more than 5% (22 of 27 below last year).
+11_acquisitions_before_vs_after.png — Average monthly drink sales 12 months before vs after each going-concern acquisition: all rose (+9.9% to +129%, 4 deals).
+14_forecast_accuracy_vs_baseline.png — Back-tested venue-level forecast error by model: ensemble 14.8% vs 'same month last year' baseline 20.7% (ensemble's average 12-month group error 4.7%).
+15_scenarios_next_year.png — 2027 drink revenue by scenario vs the 2026 estimate $53.3M: bear $49.1M, base $52.4M, bull $54.0M; adding venues lifts it to up to $57.5M.
